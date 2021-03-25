@@ -1,0 +1,19 @@
+{
+  "name": "@jhpriestley/priority_queue",
+  "version": "1.0.0",
+  "description": "Priority Queue",
+  "main": "priority_queue.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jason Priestley <jasonhpriestley@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhp/priority_queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhp/priority_queue/issues"
+  },
+  "homepage": "https://github.com/jhp/priority_queue#readme"
+}
