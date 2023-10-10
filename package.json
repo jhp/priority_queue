@@ -1,6 +1,6 @@
 {
   "name": "@jhpriestley/priority_queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Priority Queue",
   "main": "priority_queue.js",
   "scripts": {

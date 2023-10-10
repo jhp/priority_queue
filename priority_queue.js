@@ -6,7 +6,7 @@ module.exports = function newQueue(plus, q=[]) {
 
     self._getHeap = () => q;
 
-    self.copy = () => newQueue(plus, q.map(([idx,val]) => [idx.val]));
+    self.copy = () => newQueue(plus, q.map(([idx,val]) => [idx,val]));
 
     self.push = (priority, elem) => {
         let idx = q.length;
